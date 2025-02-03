@@ -23,7 +23,6 @@ class Animal:
     def nommer(self, nom):
             self.nom = nom
 
-
 # Instanciation de la classe Animal
 animal = Animal()
 
