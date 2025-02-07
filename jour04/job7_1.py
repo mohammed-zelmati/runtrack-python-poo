@@ -8,7 +8,7 @@ pygame.init()
 # Constantes
 LARGEUR, HAUTEUR = 1280, 720
 COULEUR_FOND = (0, 128, 0)  # Vert foncé pour le tapis de jeu
-COULEUR_TEXTE = (255, 255, 255)  # Blanc
+COULEUR_TEXTE = (0, 0, 0)  # NOIRE
 TAILLE_CARTE = (80, 120)  # Largeur et hauteur d'une carte
 FPS = 30
 
